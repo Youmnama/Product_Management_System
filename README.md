@@ -1,4 +1,4 @@
-# WebChatServer
+# Product Managment System
 
 A system for storing or selling data through CRUDS operations and storing the data in LocalStorage. 
 The data that the user enters, edits, deletes, or deletes all and searches for products will be displayed.
